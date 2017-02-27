@@ -3,7 +3,7 @@ A Simple Cache System By Golang
 
 
 # 介绍
-一个简单的由GoLang编写的缓冲系统组件， 你可以简单的将GoCache包放入你的GoLang项目中，当你的项目只需要简单的缓存支持且并没有高并发的要求下时。
+一个简单的由GoLang编写的缓存系统组件， 你可以简单的将GoCache包放入你的GoLang项目中，当你的项目只需要简单的缓存支持且并没有高并发的要求下时。
 
 # 功能
 GoCache支持了以下几种基本功能
